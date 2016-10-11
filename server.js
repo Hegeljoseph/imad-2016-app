@@ -82,11 +82,13 @@ function createTemplate(data) {
             <hr/>
            Add comment <input type="text" id="comment" placeholder="Comment"/>
            <input type="submit" value="Submit" id = "submit_btn"/>
-           <ul id="namelist">
+           <ul id="commentlist">
              
            </ul>
         </div>
     </body>
+    <script type="text/javascript" src="/ui/articles.js">
+        </script>
 </html>
 
 
